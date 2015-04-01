@@ -1,4 +1,4 @@
-# barsy
+# Barsy
 API collection for grubbing
 
 ## Что это и для чего?
