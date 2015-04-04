@@ -21,8 +21,9 @@ API от Google, Yandex, VK, 2GIS, YouTube, а так же полезные но
 
 ## То, что доктор прописал
 
-*[Pywot](https://github.com/mattselph/pywot)
+* [Pywot](https://github.com/mattselph/pywot)
 Отличный пакет для любителей World of Tanks и статистики.
+* ...
 <i>продолжение следует</i>
 
 
